@@ -1,7 +1,8 @@
 # 🚗 Uber Ride Data Analysis
 
-This repository contains an end-to-end data analysis project on Uber ride bookings in the NCR region. 
-The goal is to derive meaningful business insights related to demand patterns, cancellations, revenue performance, and trip economics using Excel, Python, and Power BI.
+This repository contains an end-to-end data analysis project on Uber ride bookings in the National Capital Region (NCR). 
+The objective is to derive meaningful business insights related to demand patterns, cancellations, revenue performance, and trip economics using Excel, Python, and Power BI. 
+The findings can support operational optimization and strategic decision-making for potential expansion within the NCR market
 
 ## 📌 Project Overview
 
